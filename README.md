@@ -1,2 +1,2 @@
 # LightLight
-First game I
+First game I've scripted and built within Unity.
